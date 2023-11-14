@@ -1,0 +1,14 @@
+C:\Users\JayC\source\repos\TikTakToe\TikTakToe\bin\Debug\net7.0\TikTakToe.exe
+C:\Users\JayC\source\repos\TikTakToe\TikTakToe\bin\Debug\net7.0\TikTakToe.deps.json
+C:\Users\JayC\source\repos\TikTakToe\TikTakToe\bin\Debug\net7.0\TikTakToe.runtimeconfig.json
+C:\Users\JayC\source\repos\TikTakToe\TikTakToe\bin\Debug\net7.0\TikTakToe.dll
+C:\Users\JayC\source\repos\TikTakToe\TikTakToe\bin\Debug\net7.0\TikTakToe.pdb
+C:\Users\JayC\source\repos\TikTakToe\TikTakToe\obj\Debug\net7.0\TikTakToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JayC\source\repos\TikTakToe\TikTakToe\obj\Debug\net7.0\TikTakToe.AssemblyInfoInputs.cache
+C:\Users\JayC\source\repos\TikTakToe\TikTakToe\obj\Debug\net7.0\TikTakToe.AssemblyInfo.cs
+C:\Users\JayC\source\repos\TikTakToe\TikTakToe\obj\Debug\net7.0\TikTakToe.csproj.CoreCompileInputs.cache
+C:\Users\JayC\source\repos\TikTakToe\TikTakToe\obj\Debug\net7.0\TikTakToe.dll
+C:\Users\JayC\source\repos\TikTakToe\TikTakToe\obj\Debug\net7.0\refint\TikTakToe.dll
+C:\Users\JayC\source\repos\TikTakToe\TikTakToe\obj\Debug\net7.0\TikTakToe.pdb
+C:\Users\JayC\source\repos\TikTakToe\TikTakToe\obj\Debug\net7.0\TikTakToe.genruntimeconfig.cache
+C:\Users\JayC\source\repos\TikTakToe\TikTakToe\obj\Debug\net7.0\ref\TikTakToe.dll
